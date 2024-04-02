@@ -1,4 +1,40 @@
-Hi there ✋!
+
 # Movies Recommender System
-<a href="URL_REDIRECT" target="blank"><img align="center" src="[https://drive.google.com/file/d/1EndJ1L-BN4_YV-8dUJTHeKoYGNWDUb2f/view?usp=sharing](https://drive.google.com/file/d/1EndJ1L-BN4_YV-8dUJTHeKoYGNWDUb2f/view?usp=sharing)" height="100" /></a>
-#### Welcome to the Movie Recommender System project! This system utilizes the TMDB dataset, containing a vast array of movies, to create a personalized Netflix-like movie recommender. The recommendation system is based on Content-Based Filtering, leveraging techniques such as Cosine Distance.
+Hi there ✋!
+
+Welcome to the Movie Recommender System project! This system utilizes the TMDB dataset, containing a vast array of movies, to create a personalized Netflix-like movie recommender. The recommendation system is based on Content-Based Filtering, leveraging techniques such as CountVectorizer and Cosine Distance.
+
+## Features
+- Content-Based Filtering: The system recommends movies based on the similarity of their content, considering features like genres, keywords, and other relevant information.
+- Streamlit UI: The project comes with a user-friendly interface powered by Streamlit, making it easy and enjoyable for users to explore and receive personalized movie recommendations.
+
+## How to use 
+* #### Clone the Repository:
+```bash
+git clone https://github.com/your-username/Movies-Recommender-System.git
+cd Movies-Recommender-System
+```
+* #### Installation
+```bash
+pip install pickle
+pip install streamlit
+```
+* #### Run the App
+```
+streamlit run app.py
+```
+## Usage
+* Run the App ```streamlit run app.py ``` and open the browser
+* Enter the movie you like
+* You will get the recommendation for the similar movies that you may like
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
