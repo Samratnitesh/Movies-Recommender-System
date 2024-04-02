@@ -3,7 +3,7 @@
 Hi there ✋!
 
 Welcome to the Movie Recommender System project! This system utilizes the TMDB dataset, containing a vast array of movies, to create a personalized Netflix-like movie recommender. The recommendation system is based on Content-Based Filtering, leveraging techniques such as CountVectorizer and Cosine Distance.
-<a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
+
 ## Features
 - Content-Based Filtering: The system recommends movies based on the similarity of their content, considering features like genres, keywords, and other relevant information.
 - Streamlit UI: The project comes with a user-friendly interface powered by Streamlit, making it easy and enjoyable for users to explore and receive personalized movie recommendations.
