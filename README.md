@@ -16,8 +16,7 @@ cd Movies-Recommender-System
 ```
 * #### Installation
 ```bash
-pip install pickle
-pip install streamlit
+pip install -r requirements.txt
 ```
 * #### Run the App
 ```
