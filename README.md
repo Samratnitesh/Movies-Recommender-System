@@ -5,10 +5,10 @@ Hi there ✋!
 Welcome to the Movie Recommender System project! This system utilizes the TMDB dataset, containing a vast array of movies, to create a personalized Netflix-like movie recommender. The recommendation system is based on Content-Based Filtering, leveraging techniques such as CountVectorizer and Cosine Distance.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Samratnitesh/Movies-Recommender-System/blob/main/Screenshot%202024-04-02%20153055.png
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Samratnitesh/Movies-Recommender-System/blob/main/Screenshot%202023-10-25%20221301.png
 ">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Samratnitesh/Movies-Recommender-System/blob/main/Screenshot%202024-04-02%20153055.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/Samratnitesh/Movies-Recommender-System/blob/main/Screenshot%202024-04-02%20153055.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Samratnitesh/Movies-Recommender-System/blob/main/Screenshot%202023-10-25%20221301.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/Samratnitesh/Movies-Recommender-System/blob/main/Screenshot%202023-10-25%20221301.png">
 </picture>
 <!-- https://github.com/Samratnitesh/Movies-Recommender-System/blob/main/Screenshot%202024-04-02%20153055.png -->
 
