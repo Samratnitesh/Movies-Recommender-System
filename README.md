@@ -13,20 +13,20 @@ Welcome to the Movie Recommender System project! This system utilizes the TMDB d
 <!-- https://github.com/Samratnitesh/Movies-Recommender-System/blob/main/Screenshot%202024-04-02%20153055.png -->
 
 ## Features
-- Content-Based Filtering: The system recommends movies based on the similarity of their content, considering features like genres, keywords, and other relevant information.
-- Streamlit UI: The project comes with a user-friendly interface powered by Streamlit, making it easy and enjoyable for users to explore and receive personalized movie recommendations.
+- **Content-Based Filtering**: The system recommends movies based on the similarity of their content, considering features like genres, keywords, and other relevant information.
+- **Streamlit UI**: The project comes with a user-friendly interface powered by Streamlit, making it easy and enjoyable for users to explore and receive personalized movie recommendations.
 
 ## How to use 
-* #### Clone the Repository:
+ #### Clone the Repository:
 ```bash
 git clone https://github.com/your-username/Movies-Recommender-System.git
 cd Movies-Recommender-System
 ```
-* #### Installation
+ #### Installation
 ```bash
 pip install -r requirements.txt
 ```
-* #### Run the App
+ #### Run the App
 ```
 streamlit run app.py
 ```
